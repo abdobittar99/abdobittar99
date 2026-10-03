@@ -81,6 +81,14 @@ A clean task management application built with Flutter following Clean Architect
 
 ---
 
+### News App
+A modern and responsive Flutter news application that retrieves news articles from external REST APIs.
+
+Repository:
+- https://github.com/abdobittar99/news_app
+
+---
+
 ##  Contact
 
  Email:
