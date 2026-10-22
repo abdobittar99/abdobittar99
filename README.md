@@ -115,4 +115,4 @@ A responsive news application that retrieves articles from external REST APIs an
 - **Email:** abdo.bittar79@gmail.com
 - **Location:** Aleppo, Syria
 - **GitHub:** [abdobittar99](https://github.com/abdobittar99)
-- **LinkedIn:** [Add your LinkedIn profile URL here]
+- **LinkedIn:** [Abdalrahman Bittar](https://www.linkedin.com/in/abdalrahman-bittar-a30542445/)
