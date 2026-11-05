@@ -70,15 +70,19 @@ I enjoy applying clean software architecture, integrating REST APIs and Firebase
 
 ### BitCar – Car Trading Mobile Application
 
-A cross-platform marketplace for buying, selling, and comparing new and used cars, with role-based access for buyers, sellers, and administrators.
+A Flutter-based car marketplace for buying, selling, searching, and comparing new and used vehicles, featuring role-based access for buyers, sellers, and administrators, along with real-time buyer–seller messaging.
 
-- Built with Clean Architecture, Repository Pattern, and GetIt.
-- Integrated Firebase Authentication and Cloud Firestore.
-- Implemented state management, pagination, lazy loading, advanced filtering, and vehicle comparison.
+* Built using Clean Architecture, Repository Pattern, and GetIt for dependency injection.
+* Integrated Firebase Authentication and Cloud Firestore for authentication, data management, and real-time communication.
+* Implemented a real-time messaging system with unique conversations per buyer–seller pair, unread message tracking, read status updates, and paginated message history.
+* Secured conversations using Firestore Security Rules, with session isolation to prevent user data leakage.
+* Implemented pagination, lazy loading, advanced filtering, vehicle comparison, and role-based functionality.
 
-**Technologies:** Flutter, Dart, Firebase, BLoC/Cubit, Provider, GetIt.
+**Technologies:** Flutter, Dart, Firebase Authentication, Cloud Firestore, BLoC/Cubit, GetIt, SharedPreferences.
 
 [View Repository](https://github.com/abdobittar99/bitcar-app)
+
+---
 
 ---
 
