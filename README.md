@@ -2,7 +2,7 @@
 
 ### Flutter Developer
 
-I am a Junior Flutter Developer with a Bachelor's degree in Information Technology, focused on building maintainable and user-friendly cross-platform mobile applications using Flutter and Dart.
+I am a Flutter Developer with a Bachelor's degree in Information Technology, focused on building maintainable and user-friendly cross-platform mobile applications using Flutter and Dart.
 
 I enjoy applying clean software architecture, integrating REST APIs and Firebase, and improving my development skills through practical projects.
 
