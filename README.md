@@ -1,6 +1,6 @@
 # Hi, I'm Abdalrahman Bittar 👋
 
-### Junior Flutter Developer
+### Flutter Developer
 
 I am a Junior Flutter Developer with a Bachelor's degree in Information Technology, focused on building maintainable and user-friendly cross-platform mobile applications using Flutter and Dart.
 
